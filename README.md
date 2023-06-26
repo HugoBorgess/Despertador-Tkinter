@@ -21,7 +21,7 @@ Um simples aplicativo de despertador em Python usando a biblioteca Tkinter.
 4. Execute o seguinte comando:
 
 ```
-python despertador.py
+python despertador_tkinter.py
 ```
 
 5. O aplicativo de despertador será exibido.
